@@ -18,3 +18,4 @@ Installation of the libraries
 !pip install numpy 
 !pip install cv2
 
+Using Mediapipe for pose detection, CV2 for image processing, Pynput for keyboard input, and PyAutoGUI for smooth interactions. Through webcam analysis, it tracks exercises like Pull-ups, push-ups, sit-ups, Squats, and Biceps.
